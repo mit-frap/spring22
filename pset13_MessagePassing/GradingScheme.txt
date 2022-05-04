@@ -1,0 +1,5 @@
+30 points for R, even if some details are off
+30 points for simulating silent steps
+30 points for simulating non-silent steps
+5 points for R holds initially
+5 points for using refines_couldGenerate
